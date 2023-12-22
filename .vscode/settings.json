@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "interrupts.h": "c",
+        "game.h": "c",
+        "keyboard.h": "c",
+        "video_card.h": "c",
+        "position.h": "c",
+        "player.h": "c",
+        "cstdlib": "c",
+        "button.h": "c",
+        "drawing_position.h": "c",
+        "player_drawer.h": "c",
+        "serial_port.h": "c",
+        "mouse.h": "c",
+        "guess.h": "c",
+        "brush.h": "c"
+    }
+}
