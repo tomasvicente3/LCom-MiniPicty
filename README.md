@@ -1,4 +1,4 @@
-# LCOM Project
+# MiniPicty
 
 LCOM Project for group T13G05.
 
